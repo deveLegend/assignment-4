@@ -5,6 +5,8 @@
 #####Coursera
 <hr>
 This repository contains my solution to the Module - 2 Coding Assignment for HTML, CSS, JavaScript for Web Developers Course by Johns Hopkins University on Coursera. <br><br>
+My solution page's link: [Module 2 Solution](http://faheemzunjani.github.io/module-2-solution/module2-solution) 
+<hr>
 
 Quoting the requirements from the Assignment doc ( [Assignment Link](goo.gl/4Blt4G) ):<br>
 
