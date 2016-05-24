@@ -106,6 +106,8 @@ section {
 
 #header-nav {
   border: 0;
+  background-color: #FC5F06;
+  color: #FFFFFF;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
@@ -116,4 +118,24 @@ section {
   margin-top: -30px;
 }
 
+.nav-header {
+  background-color: #FFFFFF;
+}
 
+.nav-brand {
+  color: #FFFFFF;
+  font-size: 1.5em;
+}
+
+#nav-list {
+  color: white;
+}
+
+hr {
+  border-color: white;
+}
+
+.item {
+  color: white;
+  font-size: 1.2em;
+}
