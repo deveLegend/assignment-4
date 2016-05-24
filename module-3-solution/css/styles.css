@@ -7,7 +7,6 @@
 h1 {
 	font-family: Brushstroke, fantasy;
 	color: #000000;
-	text-align: center;
 }
 
 body {
@@ -34,7 +33,7 @@ section {
 	border:	1px solid black;
 	background-color: #00FF99;
 	width: 100%;
-	height: 200px;
+	height: auto;
 	font-family: Helvetica;
 	color: black;
 	position: relative;
@@ -102,6 +101,7 @@ section {
 .navbar-brand {
   font-size: 2em;
   border: 0 0 10px 10px;
+  color: #FFFFFF;
 }
 
 #header-nav {
@@ -115,3 +115,5 @@ section {
   clear: both;
   margin-top: -30px;
 }
+
+
